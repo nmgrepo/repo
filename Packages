@@ -1,0 +1,13 @@
+Package: com.ioscreatix.sugarcane
+Version: 1.0
+Section: Tweaks
+Maintainer: NMG
+Depends: firmware (>13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ioscreatix.sugarcane
+Size: 6170
+MD5sum: 9C63C0031B416BFB1BCA3579F19173B7
+Description: SugarCane13 is a tweak which adds percentages to you CC volume and brightness sliders.
+Name: SugarCane13
+Author: Unkown
+Depiction: repo.nilamediagroup.nl
