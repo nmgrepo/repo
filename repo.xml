@@ -1,4 +1,8 @@
 <repo>
-	<footerlinks>
-	</footerlinks>
+    <footerlinks>
+	<link>
+	   <name>Repo Link</name>
+	   <url>http://repo.nilamediagroup.nl</url>
+	</link>
+    </footerlinks>
 </repo>
