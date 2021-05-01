@@ -1,4 +1,4 @@
-Origin: repo.nilamediagroup.nl
+Origin: NMG Repo
 Label: NMG Repo
 Suite: stable
 Version: 1.0
